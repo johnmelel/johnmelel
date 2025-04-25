@@ -1,28 +1,88 @@
-<h1>Hi 👋, I'm John</h1>
-<p>A passionate Generative AI Engineer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/johnmelel" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmelel&show_icons=true&locale=en" alt="johnmelel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmelel&" alt="johnmelel" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnmelel&show_icons=true&locale=en&layout=compact" alt="johnmelel" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnmelel" alt="johnmelel" /></a></p>
+# Hi, I'm John Joji Melel 👋
+
+🎓 MS in Applied Data Science @ University of Chicago  
+🧠 Specializing in Generative AI, NLP, Bayesian Modeling, and Machine Learning  
+📍 Based in Chicago, IL  
+🔗 [LinkedIn](https://www.linkedin.com/in/johnmelel) | 🌐 [GitHub](https://github.com/johnmelel)
+
+---
+
+## 🧭 About Me
+
+I am a data scientist passionate about building intelligent systems at the intersection of **healthcare, machine learning, and generative AI**. With a solid foundation in statistics, deep learning, and NLP, I thrive in complex problem spaces and enjoy pushing the boundaries of what’s possible with modern AI.
+
+My experience at **ZS Associates**, a global consulting firm, equipped me to excel in **high-pressure, fast-paced environments**. There, I led machine learning initiatives, streamlined analytics pipelines, and mentored new team members—all while delivering impactful solutions for top pharmaceutical clients.
+
+Currently pursuing my Master’s at the University of Chicago, I’m actively working on a capstone project that applies **LLMs and agentic frameworks** to real-world clinical settings, combining **multimodal retrieval-augmented generation (RAG)** and **reinforcement learning**.
+
+---
+
+## 🔬 Key Projects
+
+### 🧠 [Capstone: Generative AI in Healthcare](https://github.com/johnmelel/capstone)
+- Designing a **centralized vector store** with **multimodal RAG** and **agent-based reasoning** to enhance clinical decision support at UChicago Medicine
+- Leveraging frameworks like **AutoGen**, **CrewAI**, and **LangGraph** to implement **multi-agent LLM pipelines**
+
+### 🧪 [NLP for Clinical Trial Augmentation](https://github.com/johnmelel/MachineLearning1_CT)
+- Extracted ideal patient cohorts for clinical trials from medical data and doctors’ notes using **NLP pipelines** and **PU classification**
+- Helped simulate patient inclusion strategies to enhance clinical trial success with faster patient identification
+
+### 🎭 [Conditional-Variational Autoencoder for Facial Age Progression](https://github.com/bhstoller/AgeTransform-VAE)
+- Trained a **C-VAE** model to simulate age progression from facial portraits
+- Integrated custom encoder-decoder architecture with PyTorch
+
+### 🌫 [Forecasting London's Air Quality Index](https://github.com/johnmelel/TimeSeries_AQI_Forecasting)
+- Developed a **deep learning-based LSTM model** to forecast London's Air Quality Index (AQI) using over 10 years of hourly data
+- Benchmarked performance across multiple models: **ARIMA, SARIMA, ARFIMA, ETS, BSTS, and LSTM**
+- Achieved best performance with **LSTM (RMSE = 10.2)**, significantly outperforming traditional statistical approaches
+
+---
+
+## 🛠 Tech Stack
+
+<div align="left">
+
+**Languages & Querying**  
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r" />
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/-Cypher-black?style=flat-square&logo=neo4j" />
+<img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" />
+<img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" />
+
+**Libraries & Frameworks**  
+<img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
+<img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
+<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras" />
+<img src="https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=marketo" />
+<img src="https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn" />
+<img src="https://img.shields.io/badge/-spaCy-black?style=flat-square&logo=spacy" />
+<img src="https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface" />
+<img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=openai" />
+<img src="https://img.shields.io/badge/-CrewAI-black?style=flat-square&logo=agent" />
+
+**Cloud & Platforms**  
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" />
+<img src="https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud" />
+<img src="https://img.shields.io/badge/-Dataiku-black?style=flat-square&logo=dataiku" />
+<img src="https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=snowflake" />
+
+</div>
+
+---
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmelel&show_icons=true&theme=default)
+
+---
+
+## 📈 Let's Connect
+
+I'm always open to collaboration, mentorship, and exploring new frontiers in data science. If you're working on something exciting in **LLMs, agent systems, or healthcare AI**, feel free to reach out!
+
+📫 [johnjojimelel@gmail.com](mailto:johnjojimelel@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/johnmelel)  
+🌐 [GitHub](https://github.com/johnmelel)
+
+---
