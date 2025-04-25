@@ -42,7 +42,7 @@ Currently pursuing my Master’s at the University of Chicago, I’m actively wo
 
 <div align="left">
 
-**Languages & Querying**  
+**Languages & Tools**  
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
 <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r" />
