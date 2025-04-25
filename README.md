@@ -11,7 +11,7 @@
 
 I am a data scientist passionate about building intelligent systems at the intersection of **healthcare, machine learning, and generative AI**. With a solid foundation in statistics, deep learning, and NLP, I thrive in complex problem spaces and enjoy pushing the boundaries of what’s possible with modern AI.
 
-My experience at **ZS Associates**, a global consulting firm, equipped me to excel in **high-pressure, fast-paced environments**. There, I led machine learning initiatives, streamlined analytics pipelines, and mentored new team members—all while delivering impactful solutions for top pharmaceutical clients.
+My experience at **ZS Associates**, a global healthcare consulting firm, equipped me to excel in **high-pressure, fast-paced environments**. There, I led machine learning initiatives, streamlined analytics pipelines, and mentored new team members—all while delivering impactful solutions for top pharmaceutical clients.
 
 Currently pursuing my Master’s at the University of Chicago, I’m actively working on a capstone project that applies **LLMs and agentic frameworks** to real-world clinical settings, combining **multimodal retrieval-augmented generation (RAG)** and **reinforcement learning**.
 
