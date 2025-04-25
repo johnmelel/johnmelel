@@ -84,5 +84,3 @@ I'm always open to collaboration, mentorship, and exploring new frontiers in dat
 📫 [johnjojimelel@gmail.com](mailto:johnjojimelel@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/johnmelel)  
 🌐 [GitHub](https://github.com/johnmelel)
-
----
