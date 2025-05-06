@@ -1,4 +1,4 @@
-# Hi, I'm John Joji Melel 👋
+# Hi, I'm John Melel 👋
 
 🎓 MS in Applied Data Science @ University of Chicago  
 🧠 Specializing in Generative AI, NLP, Bayesian Modeling, and Machine Learning  
