@@ -44,48 +44,55 @@ Currently pursuing my Master’s at the University of Chicago, I’m actively wo
 
 <div align="left">
 
-**Languages & Tools** <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+**Languages & Tools** 
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r" />
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
-<img src="https://img.shields.io/badge/-Cypher-black?style=flat-square&logo=neo4j" />
-<img src="https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j" />
-<img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" />
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
 <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" />
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" />
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" />
+<img src="https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j" />
+<img src="https://img.shields.io/badge/-Cypher-black?style=flat-square&logo=neo4j" />
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r" />
 
-**ML & AI** <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
+**ML & AI** 
+<img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
+<img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain" />
+<img src="https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llamaindex" />
+<img src="https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface" />
+<img src="https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=diagrams" />
+<img src="https://img.shields.io/badge/-LangSmith-black?style=flat-square&logo=langchain" />
+<img src="https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow" />
 <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
 <img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras" />
 <img src="https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn" />
 <img src="https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=marketo" />
 <img src="https://img.shields.io/badge/-spaCy-black?style=flat-square&logo=spacy" />
-<img src="https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface" />
-<img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=openai" />
-<img src="https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llamaindex" />
-<img src="https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=diagrams" />
-<img src="https://img.shields.io/badge/-LangSmith-black?style=flat-square&logo=langchain" />
 <img src="https://img.shields.io/badge/-CrewAI-black?style=flat-square&logo=agent" />
-<img src="https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow" />
 <img src="https://img.shields.io/badge/-Milvus-black?style=flat-square&logo=milvus" />
 <img src="https://img.shields.io/badge/-ChromaDB-black?style=flat-square&logo=chroma" />
 <img src="https://img.shields.io/badge/-MCP-black?style=flat-square" />
 <img src="https://img.shields.io/badge/-A2A-black?style=flat-square" />
 <img src="https://img.shields.io/badge/-ADK-black?style=flat-square" />
 
-**Data Visualization & BI** <img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" />
+**Data Visualization & BI** 
+<img src="https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit" />
+<img src="https://img.shields.io/badge/-Gradio-black?style=flat-square&logo=gradio" />
+<img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" />
 <img src="https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn" />
-<img src="https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint" />
 <img src="https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel" />
+<img src="https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint" />
 
-**Cloud & Platforms** <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" />
+**Cloud & Platforms** 
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" />
 <img src="https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud" />
-<img src="https://img.shields.io/badge/-Vertex%20AI-black?style=flat-square&logo=googlecloud" />
 <img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks" />
-<img src="https://img.shields.io/badge/-Dataiku-black?style=flat-square&logo=dataiku" />
 <img src="https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=snowflake" />
+<img src="https://img.shields.io/badge/-Vertex%20AI-black?style=flat-square&logo=googlecloud" />
+<img src="https://img.shields.io/badge/-Dataiku-black?style=flat-square&logo=dataiku" />
 <img src="https://img.shields.io/badge/-Llamacloud-black?style=flat-square" />
 
 </div>
