@@ -13,7 +13,7 @@ I am a data scientist passionate about building intelligent systems at the inter
 
 My experience at **ZS Associates**, a global healthcare consulting firm, equipped me to excel in **high-pressure, fast-paced environments**. There, I led machine learning initiatives, streamlined analytics pipelines, and mentored new team members—all while delivering impactful solutions for top pharmaceutical clients.
 
-At **NeuraFlash - Accenture** I was a main conrtibutor to the NeuraFlash multi agent chatbot product, grounded in RAG and built with ADK, which is then deployed for varied client use cases.
+At **NeuraFlash - Accenture** I was a main contributor to the NeuraFlash multi agent chatbot product, grounded in RAG and built with ADK, which is then deployed for varied client use cases.
 
 Currently pursuing my Master’s at the University of Chicago, I’m actively working on a capstone project that applies **LLMs and agentic frameworks** to real-world clinical settings, combining **multimodal retrieval-augmented generation (RAG)** and **reinforcement learning**.
 
