@@ -13,6 +13,8 @@ I am a data scientist passionate about building intelligent systems at the inter
 
 My experience at **ZS Associates**, a global healthcare consulting firm, equipped me to excel in **high-pressure, fast-paced environments**. There, I led machine learning initiatives, streamlined analytics pipelines, and mentored new team members—all while delivering impactful solutions for top pharmaceutical clients.
 
+At **NeuraFlash - Accenture** I was a main conrtibutor to the NeuraFlash multi agent chatbot product, grounded in RAG and built with ADK, which is then deployed for varied client use cases.
+
 Currently pursuing my Master’s at the University of Chicago, I’m actively working on a capstone project that applies **LLMs and agentic frameworks** to real-world clinical settings, combining **multimodal retrieval-augmented generation (RAG)** and **reinforcement learning**.
 
 ---
@@ -21,7 +23,7 @@ Currently pursuing my Master’s at the University of Chicago, I’m actively wo
 
 ### 🧠 [Capstone: Generative AI in Healthcare](https://github.com/johnmelel/capstone)
 - Designing a **centralized vector store** with **multimodal RAG** and **agent-based reasoning** to enhance clinical decision support at UChicago Medicine
-- Leveraging frameworks like **AutoGen**, **CrewAI**, and **LangGraph** to implement **multi-agent LLM pipelines**
+- Leveraging frameworks like **A2A**, **MCP**, and **LangGraph** to implement **multi-agent LLM pipelines**
 
 ### 🧪 [NLP for Clinical Trial Augmentation](https://github.com/johnmelel/MachineLearning1_CT)
 - Extracted ideal patient cohorts for clinical trials from medical data and doctors’ notes using **NLP pipelines** and **PU classification**
